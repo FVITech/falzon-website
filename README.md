@@ -2,7 +2,13 @@
 
 Anthony V. Falzon P.A. Suite 702, 12000 Biscayne Boulevard, Miami, FL 33181.  I have not set up a phone, fax or email yet but will do so next week and will pass them on to you when I do.
 
-Template: 
+Template:
+
+Samples of other lawyer sites:
+
+http://www.skipperlaw.net./
+
+http://www.theamlongfirm.com/
 
 ## Overall Structure
 
