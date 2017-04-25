@@ -1,0 +1,121 @@
+.contact-right-w3-agile form input[type="submit"] {
+    color: #fff;
+    text-shadow: 1px 1px 0px #000000;
+    font-size: 17px;
+    padding: 4px 0px;
+    margin-top: 25px;
+    width: 15%;
+    background: #000000;
+    border: 2px solid #000;
+    outline: none;
+    -webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+
+.contact-right-w3-agile form input[type="submit"]:hover {
+	color:#fff;
+	background:#9A2533;
+	border: 2px solid #9A2533;
+	-webkit-transition:0.5s all;
+	-o-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-ms-transition:0.5s all;
+	transition:0.5s all;
+}
+
+.w3ls_head {
+    font-size: 36px;
+    color: #9A2533;
+    font-weight: 600;
+    margin-bottom: 20px;
+    letter-spacing: 4px;
+    text-shadow: 1px 1px 2px #9A2533;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.contact-right-w3-agile input[type="text"]:hover {
+	border-color:#9A2533;
+	-webkit-transition:0.5s all;
+	-o-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-ms-transition:0.5s all;
+	transition:0.5s all;
+}
+
+.contact-right-w3-agile textarea:hover {
+	border-color:#9A2533;
+	-webkit-transition:0.5s all;
+	-o-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-ms-transition:0.5s all;
+	transition:0.5s all;
+}
+
+.newsletter .submit {
+	width: 40px;
+	height: 40px;
+	background-image: url('../images/subscribe.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	background-color: #9A2533 ;
+	top: 0;
+	right: 0;
+	outline:none;
+	border: none;
+}
+
+.w3ls-social-icons i:hover,.w3ls-social i:hover {
+	background: transparent;
+	background:#9A2533;
+	color:#fff;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+}
+
+.banner1{
+	background:url(../images/justice.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	min-height:300px;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #fff ! important;
+}
+
+#navbar:hover {
+  color: #9A2533;
+}
+
+.w3_agileits_social_media ul li a.wthree_facebook:hover{
+	color:#9A2533;
+}
+.w3_agileits_social_media ul li a.wthree_twitter:hover{
+	color:#9A2533;
+}
+.w3_agileits_social_media ul li a.wthree_dribbble:hover{
+	color:#9A2533;
+}
+.w3_agileits_social_media ul li a.wthree_behance:hover{
+	color:#9A2533;
+}
+.agileits-contact-info ul li span {
+    margin-right: 10px;
+    color: #9A2533;
+}
+
+.menu--iris .menu__item--current .menu__link,.menu__link:hover {
+	color:#9A2533;
+  text-shadow: 1px 1px 1px white;
+}
