@@ -34,7 +34,7 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left2 a,.w3agile_s
 }
 /*-- banner --*/
 .banner{
-	background:url(../img/banner3.jpg) no-repeat 0px 0px;
+	background:url(../images/banner.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -43,13 +43,13 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left2 a,.w3agile_s
 	min-height:730px;
 }
 .banner1{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/attorney.png) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:300px;
+	min-height:1000px;
 }
 /*-- nav --*/
 .navbar-default {
@@ -2644,7 +2644,11 @@ p.w3layouts_para {
 }
 }
 
-
+.logo-f{
+    display: flex;
+    height: 10rem;
+    margin-left: -50px;
+}
 
 #logo {
     height: 100px;
@@ -2701,5 +2705,5 @@ flex-direction: column;
 
 #names {
     color:#fff;
-    
+
 }
