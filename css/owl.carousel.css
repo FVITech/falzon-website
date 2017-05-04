@@ -373,12 +373,12 @@
 		height: 33px;
 		background-size: 100%;
 	}
-	.owl-next {
+	/*.owl-next {
       background: url(../images/arrows.png) no-repeat 17px 0px;
 	}
 	.owl-prev {
       background: url(../images/arrows.png) no-repeat -18px 0px;
-	}
+	}*/
 	.owl-theme .owl-controls {
 		margin: 0em 0 0 0em;
 	}

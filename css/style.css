@@ -34,7 +34,18 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left2 a,.w3agile_s
 }
 /*-- banner --*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+  background:url(../images/head.png) no-repeat 0px 0px;
+  /*background:url(../images/banner.jpg) no-repeat 0px 0px;*/
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	min-height:900px;
+}
+.banner1{
+	/*background:url(../images/attorney.png) no-repeat 0px 0px;*/
+  background:url(../images/justice.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -42,14 +53,14 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left2 a,.w3agile_s
 	-ms-background-size:cover;
 	min-height:730px;
 }
-.banner1{
-	background:url(../images/attorney.png) no-repeat 0px 0px;
+.banner2{
+	background:url(../images/banner.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:1000px;
+	min-height:730px;
 }
 /*-- nav --*/
 .navbar-default {
@@ -539,16 +550,16 @@ p.w3l {
 .what-top1 {
     margin: 2em 0;
 }
-/*.w3ls_head {
+.w3ls_head {
     font-size: 36px;
-    color: #9A2533;
+    /*color: #9A2533;*/
     font-weight: 600;
     margin-bottom: 20px;
     letter-spacing: 4px;
     text-transform: uppercase;
     text-align: center;
-    text-decoration: line-through;
-}*/
+    /*text-decoration: line-through;*/
+}
 .what-grid {
     padding-right: 130px;
 }
@@ -713,6 +724,7 @@ p.w3agile {
 	opacity: 0;
 	-moz-opacity: 0;
 	filter: alpha(opacity=0);
+  color: #9A2533;
 }
 /*-- //to-top --*/
 /*-- icons --*/
@@ -1888,7 +1900,7 @@ ul.social-icons li {
 }
 @media (max-width:1366px){
 .banner {
-	min-height: 610px;
+	min-height: 730px;
 }
 }
 @media (max-width:1280px){
@@ -1981,7 +1993,7 @@ p.w3layouts_para {
     font-size: 24px;
 }
 .banner {
-    min-height: 540px;
+    min-height: 730px;
 }
 .welcome-top p {
     width: 100%;

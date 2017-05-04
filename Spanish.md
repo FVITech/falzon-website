@@ -16,9 +16,7 @@ Muchas veces los empleadores presentarán a los empleados que acaban de despedir
 
 ## Discriminación en el lugar de trabajo:
 
-La Florida tiene una legislación que no ampara su derecho al trabajo, lo que significa esencialmente que usted puede ser despedido por cualquier razón legal o sin ninguna razón si no es miembro de un sindicato, es un empleado público o tiene un contrato de trabajo por escrito. Sin embargo, no puede ser despedido por una razón discriminatoria: su raza, color, sexo, edad,
-
-origen nacional, religión, estado civil, el hecho de estar embarazada, su orientación sexual o su identidad de género. El Abogado Falzon tiene amplia y exitosa experiencia en el manejo de reclamos de discriminación en nombre de empleados a nivel federal, estatal y local.
+La Florida tiene una legislación que no ampara su derecho al trabajo, lo que significa esencialmente que usted puede ser despedido por cualquier razón legal o sin ninguna razón si no es miembro de un sindicato, es un empleado público o tiene un contrato de trabajo por escrito. Sin embargo, no puede ser despedido por una razón discriminatoria: su raza, color, sexo, edad, origen nacional, religión, estado civil, el hecho de estar embarazada, su orientación sexual o su identidad de género. El Abogado Falzon tiene amplia y exitosa experiencia en el manejo de reclamos de discriminación en nombre de empleados a nivel federal, estatal y local.
 
 ## Hostigamiento en el lugar de trabajo:
 

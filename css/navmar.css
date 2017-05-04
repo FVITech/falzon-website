@@ -80,14 +80,14 @@
     -moz-transition: 0.5s all;
 }
 
-.banner1{
-	background:url(../images/justice.jpg) no-repeat 0px 0px;
+.banner2{
+	background:url(../images/banner.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:300px;
+	min-height:730px;
 }
 
 .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -95,7 +95,7 @@
 }
 
 #navbar:hover {
-  color: #9A2533;
+  /*color: #9A2533;*/
 }
 
 .w3_agileits_social_media ul li a.wthree_facebook:hover{
@@ -112,7 +112,7 @@
 }
 .agileits-contact-info ul li span {
     margin-right: 10px;
-    color: #9A2533;
+    /*color: #9A2533;*/
 }
 
 .menu--iris .menu__item--current .menu__link,.menu__link:hover {
