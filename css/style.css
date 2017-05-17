@@ -34,7 +34,7 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left2 a,.w3agile_s
 }
 /*-- banner --*/
 .banner{
-  background:url(../images/head.png) no-repeat 0px 0px;
+  background:url(../img/home-right.jpg) no-repeat 0px 0px;
   /*background:url(../images/banner.jpg) no-repeat 0px 0px;*/
 	background-size:cover;
 	-webkit-background-size:cover;
