@@ -12,7 +12,7 @@ http://www.theamlongfirm.com/
 
 ## Overall Structure
 
-1. legal areas of expertise sections
+1. Areas of Legal Practice sections
 
 2. homepage
     1. Bio

@@ -34,7 +34,7 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left2 a,.w3agile_s
 }
 /*-- banner --*/
 .banner{
-  background:url(../img/home-right.jpg) no-repeat 0px 0px;
+  background:url(../images/home-right.jpg) no-repeat 0px 0px;
   /*background:url(../images/banner.jpg) no-repeat 0px 0px;*/
 	background-size:cover;
 	-webkit-background-size:cover;
@@ -647,6 +647,9 @@ p.w3agile {
     -ms-transition: 0.5s all;
     -moz-transition: 0.5s all;
 }
+/*.bottom-icons-cont {
+  padding-left: 10px;
+}*/
 .w3ls-social-icons i:hover,.w3ls-social i:hover {
 	background: transparent;
 	background:#9A2533;
