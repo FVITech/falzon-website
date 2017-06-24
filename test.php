@@ -29,7 +29,7 @@
         echo '<p>Please go back and make sure you check the security CAPTCHA box.</p><br>';
     } else {
         // If CAPTCHA is successfully completed...
-        $senderEmail = "sender@gmail.com";
+        $senderEmail = "sender@anthonyfalzon-law.com";
         $recipient = "dephil29@hotmail.com";
         $name = $_POST["Name"];
         $number = $_POST["Number"];
